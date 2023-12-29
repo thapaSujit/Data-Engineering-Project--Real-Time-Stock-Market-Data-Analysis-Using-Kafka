@@ -4,7 +4,7 @@
 In this project, you will implement an end-to-end Data Engineering solution for processing real-time Stock Market data using Apache Kafka. The project leverages various technologies, including Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 ## Project Overview
-This project is associated with a YouTube video that provides a detailed walkthrough of Docker in general. You can watch the video [here](https://www.youtube.com/watch?v=KerNf0NANMo). The coding for this project was carried out while following the instructions provided in the video.
+This project is associated with a YouTube video that provides a snapshot of this project. You can watch the video [here](https://www.youtube.com/watch?v=KerNf0NANMo). The coding for this project was carried out while following the instructions provided in the video.
 
 ## Architecture
 ![Project Architecture](Architecture.jpg)
